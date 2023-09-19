@@ -2,7 +2,7 @@
 
 🎓 I graduated in 2020 with a master's degree in IT, laying the foundation for my career.
 👀 My main area of interest lies in IT and coding, particularly back-end development.
-🌱 Currently, I'm actively learning and honing my skills in PHP Laravel and Django to strengthen my expertise.
+🌱 Currently, I'm actively learning and honing my skills in Ruby on Rails and Django to strengthen my expertise.
 💞️ I'm eager to collaborate with others and gain practical experience while working on exciting projects.
 
 <!---
